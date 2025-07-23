@@ -2,7 +2,7 @@
 Between Canon and Coincidence: using data-driven approaches to understand Art Worlds (BECACO)
 
  
-# Key Features or Project Goals
+
 
 Indigenous Latin American artifacts have attracted the interest of Europeans since the earliest moment of contact between Europeans and the Indigenous peoples of the Americas. The ERC-funded BECACO project uses an innovative multidisciplinary framework to investigate the provenance of ethnographic and archaeological collections from the Indigenous Latin American world in European museums, focusing on the period 1850-2000. The project introduces the concept of Art World Patterns to reconceptualize provenance as the  study of the socio-politico-historical conditions that facilitated the movement of cultural material. BECACO combines various data-driven methodologies to identify these patterns and apply quantitative analyses, network analysis and data mining to explore the promises and limitations of different data-driven approaches to provenance research.
 
